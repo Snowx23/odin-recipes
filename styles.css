@@ -1,0 +1,15 @@
+#imgmashed img {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+
+.recipe-name {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    color: darkolivegreen;
+}
